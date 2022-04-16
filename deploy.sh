@@ -7,9 +7,9 @@ set -e
 npm run build
 
 # clear website folder
-rm -rf website/*
+rm -rf docs/*
 # move all output files into the website directory
-mv -v src/.vuepress/dist/* website/
+mv -v src/.vuepress/dist/* docs/
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
