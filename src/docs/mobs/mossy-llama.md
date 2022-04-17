@@ -23,5 +23,5 @@ will give you many different kinds of underground plants. They also have the evo
 unable to breed, as they are quite unsocial creatures. You won't find more than 4 spawning close to one
 another even in the same cave.
 
-PS: [Caravan traders](/docs/mobs/caravan-trader) have trained Mossy Llamas to not spread moss around when
+Post Scriptum: [Caravan traders](/docs/mobs/caravan-trader) have trained Mossy Llamas to not spread moss around when
 moving, because it constantly interrupted their walking.
